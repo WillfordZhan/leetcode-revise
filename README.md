@@ -21,6 +21,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-02-17 09:44 | [#61 旋转链表](https://leetcode-cn.com/problems/rotate-list) | MEDIUM | 3 | 1 |
+| 2021-02-17 09:20 | [#86 分隔链表](https://leetcode-cn.com/problems/partition-list) | MEDIUM | 1 | 1 |
 | 2021-02-17 07:57 | [#7 整数反转](https://leetcode-cn.com/problems/reverse-integer) | EASY | 6 | 1 |
 | 2021-02-17 06:26 | [#566 重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix) | EASY | 1 | 1 |
 | 2021-02-16 15:21 | [#575 分糖果](https://leetcode-cn.com/problems/distribute-candies) | EASY | 2 | 1 |
