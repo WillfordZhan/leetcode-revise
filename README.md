@@ -21,6 +21,9 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-02-18 14:08 | [#925 长按键入](https://leetcode-cn.com/problems/long-pressed-name) | EASY | 5 | 1 |
+| 2021-02-18 13:42 | [#455 分发饼干](https://leetcode-cn.com/problems/assign-cookies) | EASY | 4 | **3** |
+| 2021-02-18 13:28 | [#995 K 连续位的最小翻转次数](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips) | HARD | 1 | 1 |
 | 2021-02-17 09:44 | [#61 旋转链表](https://leetcode-cn.com/problems/rotate-list) | MEDIUM | 3 | 1 |
 | 2021-02-17 09:20 | [#86 分隔链表](https://leetcode-cn.com/problems/partition-list) | MEDIUM | 1 | 1 |
 | 2021-02-17 07:57 | [#7 整数反转](https://leetcode-cn.com/problems/reverse-integer) | EASY | 6 | 1 |
@@ -62,7 +65,6 @@
 | 2021-01-07 01:38 | [#92 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii) | MEDIUM | 6 | **3** |
 | 2021-01-05 15:09 | [#剑指 Offer 24 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof) | EASY | 8 | **3** |
 | 2021-01-05 14:06 | [#1046 最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight) | EASY | 2 | **2** |
-| 2020-12-29 14:19 | [#455 分发饼干](https://leetcode-cn.com/problems/assign-cookies) | EASY | 3 | **2** |
 | 2020-12-25 06:49 | [#42 接雨水](https://leetcode-cn.com/problems/trapping-rain-water) | HARD | 7 | **3** |
 | 2020-12-24 15:07 | [#135 分发糖果](https://leetcode-cn.com/problems/candy) | HARD | 8 | 1 |
 | 2020-12-21 15:43 | [#316 去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters) | MEDIUM | 6 | 1 |
