@@ -21,7 +21,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2021-02-20 04:23 | [#1759 统计同构子字符串的数目](https://leetcode-cn.com/problems/count-number-of-homogenous-substrings) | MEDIUM | 8 | 1 |
+| 2021-02-20 16:09 | [#5668 最长的美好子字符串](https://leetcode-cn.com/problems/longest-nice-substring) | EASY | 5 | 1 |
+| 2021-02-20 13:30 | [#1759 统计同构子字符串的数目](https://leetcode-cn.com/problems/count-number-of-homogenous-substrings) | MEDIUM | 10 | 1 |
 | 2021-02-20 02:59 | [#697 数组的度](https://leetcode-cn.com/problems/degree-of-an-array) | EASY | 1 | 1 |
 | 2021-02-19 16:47 | [#435 无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals) | MEDIUM | 4 | 1 |
 | 2021-02-19 15:30 | [#41 缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive) | HARD | 6 | **2** |
