@@ -107,7 +107,7 @@
 | 2020-09-07 02:30 | [#347 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements) | MEDIUM | 2 | **2** |
 | 2020-09-06 13:27 | [#200 岛屿数量](https://leetcode-cn.com/problems/number-of-islands) | MEDIUM | 1 | 1 |
 | 2020-09-06 13:10 | [#136 只出现一次的数字](https://leetcode-cn.com/problems/single-number) | EASY | 1 | 1 |
-| 2020-09-06 12:46 | [#107 二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii) | EASY | 4 | 1 |
+| 2020-09-06 12:46 | [#107 二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii) | MEDIUM | 4 | 1 |
 | 2020-09-05 09:31 | [#257 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths) | EASY | 2 | 1 |
 | 2020-09-05 09:07 | [#60 排列序列](https://leetcode-cn.com/problems/permutation-sequence) | HARD | 2 | 1 |
 | 2020-09-04 14:38 | [#221 最大正方形](https://leetcode-cn.com/problems/maximal-square) | MEDIUM | 5 | 1 |
