@@ -21,6 +21,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-03-06 07:55 | [#144 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal) | MEDIUM | 3 | **3** |
 | 2021-03-01 11:07 | [#303 区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable) | EASY | 3 | 1 |
 | 2021-03-01 10:55 | [#896 单调数列](https://leetcode-cn.com/problems/monotonic-array) | EASY | 2 | 1 |
 | 2021-02-25 14:50 | [#867 转置矩阵](https://leetcode-cn.com/problems/transpose-matrix) | EASY | 1 | 1 |
@@ -87,7 +88,6 @@
 | 2020-10-18 15:30 | [#55 跳跃游戏](https://leetcode-cn.com/problems/jump-game) | MEDIUM | 4 | 1 |
 | 2020-10-18 04:47 | [#401 二进制手表](https://leetcode-cn.com/problems/binary-watch) | EASY | 3 | 1 |
 | 2020-10-15 07:01 | [#145 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal) | MEDIUM | 3 | **3** |
-| 2020-10-15 06:43 | [#144 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal) | MEDIUM | 2 | **2** |
 | 2020-10-15 06:34 | [#94 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) | MEDIUM | 2 | **2** |
 | 2020-10-14 16:18 | [#402 移掉K位数字](https://leetcode-cn.com/problems/remove-k-digits) | MEDIUM | 3 | 1 |
 | 2020-10-14 14:37 | [#376 摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence) | MEDIUM | 4 | 1 |
