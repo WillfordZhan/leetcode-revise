@@ -155,7 +155,7 @@
 | 2020-08-13 10:00 | [#80 删除排序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii) | MEDIUM | 3 | **2** |
 | 2020-08-13 07:55 | [#43 字符串相乘](https://leetcode-cn.com/problems/multiply-strings) | MEDIUM | 3 | 1 |
 | 2020-08-13 06:40 | [#53 最大子序和](https://leetcode-cn.com/problems/maximum-subarray) | EASY | 4 | **2** |
-| 2020-08-13 04:31 | [#26 删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) | EASY | 2 | **2** |
+| 2020-08-13 04:31 | [#26 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) | EASY | 2 | **2** |
 | 2020-08-13 04:12 | [#2 两数相加](https://leetcode-cn.com/problems/add-two-numbers) | MEDIUM | 4 | **2** |
 | 2020-08-12 04:28 | [#133 克隆图](https://leetcode-cn.com/problems/clone-graph) | MEDIUM | 3 | 1 |
 | 2020-08-11 12:28 | [#130 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions) | MEDIUM | 1 | 1 |
