@@ -152,7 +152,7 @@
 | 2020-08-15 01:58 | [#70 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs) | EASY | 2 | 1 |
 | 2020-08-13 11:58 | [#46 全排列](https://leetcode-cn.com/problems/permutations) | MEDIUM | 2 | 1 |
 | 2020-08-13 10:18 | [#3 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | MEDIUM | 4 | **2** |
-| 2020-08-13 10:00 | [#80 删除排序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii) | MEDIUM | 3 | **2** |
+| 2020-08-13 10:00 | [#80 删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii) | MEDIUM | 3 | **2** |
 | 2020-08-13 07:55 | [#43 字符串相乘](https://leetcode-cn.com/problems/multiply-strings) | MEDIUM | 3 | 1 |
 | 2020-08-13 06:40 | [#53 最大子序和](https://leetcode-cn.com/problems/maximum-subarray) | EASY | 4 | **2** |
 | 2020-08-13 04:31 | [#26 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) | EASY | 2 | **2** |
