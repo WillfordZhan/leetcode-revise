@@ -21,6 +21,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-04-10 08:16 | [#263 丑数](https://leetcode-cn.com/problems/ugly-number) | EASY | 2 | 1 |
 | 2021-03-06 07:55 | [#144 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal) | MEDIUM | 3 | **3** |
 | 2021-03-01 11:07 | [#303 区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable) | EASY | 3 | 1 |
 | 2021-03-01 10:55 | [#896 单调数列](https://leetcode-cn.com/problems/monotonic-array) | EASY | 2 | 1 |
