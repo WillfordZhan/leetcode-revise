@@ -89,8 +89,8 @@
 | 2020-10-28 04:53 | [#20 有效的括号](https://leetcode-cn.com/problems/valid-parentheses) | EASY | 7 | **3** |
 | 2020-10-18 15:30 | [#55 跳跃游戏](https://leetcode-cn.com/problems/jump-game) | MEDIUM | 4 | 1 |
 | 2020-10-18 04:47 | [#401 二进制手表](https://leetcode-cn.com/problems/binary-watch) | EASY | 3 | 1 |
-| 2020-10-15 07:01 | [#145 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal) | MEDIUM | 3 | **3** |
-| 2020-10-15 06:34 | [#94 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) | MEDIUM | 2 | **2** |
+| 2020-10-15 07:01 | [#145 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal) | EASY | 3 | **3** |
+| 2020-10-15 06:34 | [#94 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) | EASY | 2 | **2** |
 | 2020-10-14 16:18 | [#402 移掉K位数字](https://leetcode-cn.com/problems/remove-k-digits) | MEDIUM | 3 | 1 |
 | 2020-10-14 14:37 | [#376 摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence) | MEDIUM | 4 | 1 |
 | 2020-10-09 13:59 | [#344 反转字符串](https://leetcode-cn.com/problems/reverse-string) | EASY | 1 | 1 |
