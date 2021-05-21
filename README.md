@@ -24,7 +24,7 @@
 | 2021-05-17 15:49 | [#993 二叉树的堂兄弟节点](https://leetcode-cn.com/problems/cousins-in-binary-tree) | EASY | 4 | 1 |
 | 2021-04-11 08:47 | [#264 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii) | MEDIUM | 2 | 1 |
 | 2021-04-10 08:16 | [#263 丑数](https://leetcode-cn.com/problems/ugly-number) | EASY | 2 | 1 |
-| 2021-03-06 07:55 | [#144 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal) | MEDIUM | 3 | **3** |
+| 2021-03-06 07:55 | [#144 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal) | EASY | 3 | **3** |
 | 2021-03-01 11:07 | [#303 区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable) | EASY | 3 | 1 |
 | 2021-03-01 10:55 | [#896 单调数列](https://leetcode-cn.com/problems/monotonic-array) | EASY | 2 | 1 |
 | 2021-02-25 14:50 | [#867 转置矩阵](https://leetcode-cn.com/problems/transpose-matrix) | EASY | 1 | 1 |
@@ -193,7 +193,7 @@
 | 2020-07-30 07:01 | [#343 整数拆分](https://leetcode-cn.com/problems/integer-break) | MEDIUM | 1 | 1 |
 | 2020-07-30 06:46 | [#62 不同路径](https://leetcode-cn.com/problems/unique-paths) | MEDIUM | 2 | 1 |
 | 2020-07-30 02:33 | [#79 单词搜索](https://leetcode-cn.com/problems/word-search) | MEDIUM | 4 | 1 |
-| 2020-07-28 03:17 | [#38 外观数列](https://leetcode-cn.com/problems/count-and-say) | EASY | 1 | 1 |
+| 2020-07-28 03:17 | [#38 外观数列](https://leetcode-cn.com/problems/count-and-say) | MEDIUM | 1 | 1 |
 | 2020-07-28 02:30 | [#剑指 Offer 45 把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof) | MEDIUM | 1 | 1 |
 | 2020-07-27 09:23 | [#剑指 Offer 33 二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof) | MEDIUM | 2 | 1 |
 | 2020-07-27 05:40 | [#剑指 Offer 47 礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof) | MEDIUM | 3 | 1 |
