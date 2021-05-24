@@ -179,7 +179,7 @@
 | 2020-08-05 02:04 | [#337 打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii) | MEDIUM | 2 | **2** |
 | 2020-08-04 14:54 | [#207 课程表](https://leetcode-cn.com/problems/course-schedule) | MEDIUM | 2 | 1 |
 | 2020-08-04 02:03 | [#146 LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache) | MEDIUM | 1 | 1 |
-| 2020-08-03 08:36 | [#338 比特位计数](https://leetcode-cn.com/problems/counting-bits) | MEDIUM | 3 | 1 |
+| 2020-08-03 08:36 | [#338 比特位计数](https://leetcode-cn.com/problems/counting-bits) | EASY | 3 | 1 |
 | 2020-08-03 05:23 | [#213 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii) | MEDIUM | 5 | 1 |
 | 2020-08-03 04:49 | [#198 打家劫舍](https://leetcode-cn.com/problems/house-robber) | MEDIUM | 4 | 1 |
 | 2020-08-03 03:23 | [#415 字符串相加](https://leetcode-cn.com/problems/add-strings) | EASY | 2 | 1 |
