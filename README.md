@@ -67,7 +67,7 @@
 | 2021-02-09 06:50 | [#992 K 个不同整数的子数组](https://leetcode-cn.com/problems/subarrays-with-k-different-integers) | HARD | 3 | 1 |
 | 2021-02-08 09:20 | [#978 最长湍流子数组](https://leetcode-cn.com/problems/longest-turbulent-subarray) | MEDIUM | 1 | 1 |
 | 2021-02-07 09:24 | [#6 Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion) | MEDIUM | 2 | 1 |
-| 2021-02-07 07:18 | [#665 非递减数列](https://leetcode-cn.com/problems/non-decreasing-array) | EASY | 3 | 1 |
+| 2021-02-07 07:18 | [#665 非递减数列](https://leetcode-cn.com/problems/non-decreasing-array) | MEDIUM | 3 | 1 |
 | 2021-01-31 14:49 | [#面试题 01.04 回文排列](https://leetcode-cn.com/problems/palindrome-permutation-lcci) | EASY | 1 | 1 |
 | 2021-01-30 10:06 | [#面试题 01.03 URL化](https://leetcode-cn.com/problems/string-to-url-lcci) | EASY | 3 | 1 |
 | 2021-01-30 08:05 | [#面试题 01.02 判定是否互为字符重排](https://leetcode-cn.com/problems/check-permutation-lcci) | EASY | 1 | 1 |
