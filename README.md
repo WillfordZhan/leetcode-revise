@@ -92,7 +92,7 @@
 | 2020-10-18 04:47 | [#401 二进制手表](https://leetcode-cn.com/problems/binary-watch) | EASY | 3 | 1 |
 | 2020-10-15 07:01 | [#145 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal) | EASY | 3 | **3** |
 | 2020-10-15 06:34 | [#94 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) | EASY | 2 | **2** |
-| 2020-10-14 16:18 | [#402 移掉K位数字](https://leetcode-cn.com/problems/remove-k-digits) | MEDIUM | 3 | 1 |
+| 2020-10-14 16:18 | [#402 移掉 K 位数字](https://leetcode-cn.com/problems/remove-k-digits) | MEDIUM | 3 | 1 |
 | 2020-10-14 14:37 | [#376 摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence) | MEDIUM | 4 | 1 |
 | 2020-10-09 13:59 | [#344 反转字符串](https://leetcode-cn.com/problems/reverse-string) | EASY | 1 | 1 |
 | 2020-10-07 12:48 | [#84 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram) | HARD | 1 | 1 |
